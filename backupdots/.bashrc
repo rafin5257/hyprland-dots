@@ -12,7 +12,10 @@ alias nigger='sudo pacman -Syu'
 
 alias ff='fastfetch'
 
+alias pug='rs-pug'
+
 alias whatdoyoucallablackman='momoisay nigger'
+alias whocontrolsallthemoney='momoisay jews'
 
 PS1='\w -> '
 

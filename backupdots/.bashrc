@@ -14,6 +14,9 @@ alias ff='fastfetch'
 
 alias pug='rs-pug'
 
+alias hardslap='reboot'
+alias getmeoutofhere='exit'
+
 alias whatdoyoucallablackman='momoisay nigger'
 alias whocontrolsallthemoney='momoisay jews'
 

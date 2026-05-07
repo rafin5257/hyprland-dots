@@ -11,3 +11,9 @@ the wallpaper script will work from waybar!
 note: i use capslock for backspace which you can customize in hyprland.conf
 
 just look for caps:backspace in the input section
+
+
+
+ATTENTION!!
+
+i do not own any of the wallpapers, these are all collected from various sites, such as github repos, live wallpaper sites, and ofc reddit
